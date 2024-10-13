@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brain2</string>
+    <string name="add_image_description">Agregar imagen</string>
+    <string name="search_description">Buscar</string>
+    <string name="home_description">Inicio</string>
+    <string name="profile_description">Perfil</string>
+</resources>
